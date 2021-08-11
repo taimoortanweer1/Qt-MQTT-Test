@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/CapacityStatusBar.ui.qml</file>
+        <file>qml/GUSGRTFullExtensionLightMode.ui.qml</file>
+    </qresource>
+</RCC>
